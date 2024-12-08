@@ -9,6 +9,7 @@ public class Equipo extends Participante {
     }
 
     public void agregarIntegrante(Atleta unAtleta) {
+
         integrantes.add(unAtleta);
     }
 }
